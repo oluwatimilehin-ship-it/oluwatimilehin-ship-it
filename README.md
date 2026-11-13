@@ -28,12 +28,13 @@ I’m building my expertise in Data Science, Data Analytics and Machine Learning
 🌱 Currently Learning
 
 * Advanced SQL
-* Tableau
+* Data Visualization with Tableau
 * Machine Learning
 * Practical Data Science workflows
 
 🤝 Let’s Connect
 
-* LinkedIn: Connect with me
+* LinkedIn: https://www.linkedin.com/in/oluwatimilehin-awe-80a72635b/
+* Email: aweoluwatimilehin9@gmail.com
 
 I’m open to learning opportunities, collaborations and entry-level opportunities in Data Science and Data Analytics.
