@@ -1,16 +1,39 @@
-## Hi there 👋
+## Hi, I’m Oluwatimilehin Awe 👋
 
-<!--
-**oluwatimilehin-ship-it/oluwatimilehin-ship-it** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Statistics Graduate | Aspiring Data Scientist
 
-Here are some ideas to get you started:
+I’m passionate about using data to solve problems, uncover patterns and generate meaningful insights that support informed decision-making.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m building my expertise in Data Science, Data Analytics and Machine Learning through continuous learning and hands-on projects.
+
+🛠️ Technical Skills
+
+* Programming: Python, SQL
+* Data Analysis: Pandas, NumPy
+* Data Visualization: Matplotlib, Seaborn, Tableau
+* Machine Learning: Scikit-learn, Classification, Clustering
+* Tools: Jupyter Notebook, Google Colab, Git and GitHub
+
+📊 Featured Projects
+
+* Telco Customer Churn Analysis: Customer churn analysis, segmentation and machine learning classification.
+* Weather Prediction: Collaborative weather data collection, cleaning and preparation.
+* Sales Performance Dashboard: Sales analytics, customer insights and interactive dashboard development.
+
+🎓 Education
+
+* HND Statistics – Federal Polytechnic Auchi
+* Data Science Training – TS Academy
+
+🌱 Currently Learning
+
+* Advanced SQL
+* Tableau
+* Machine Learning
+* Practical Data Science workflows
+
+🤝 Let’s Connect
+
+* LinkedIn: Connect with me
+
+I’m open to learning opportunities, collaborations and entry-level opportunities in Data Science and Data Analytics.
